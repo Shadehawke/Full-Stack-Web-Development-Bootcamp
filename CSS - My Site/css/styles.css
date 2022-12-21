@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    text-align: center;
 }
 
 h1 {
@@ -24,4 +25,8 @@ h1 {
 
 .product {
     text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: absolute;
 }
